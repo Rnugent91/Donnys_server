@@ -26,6 +26,11 @@
             "author_id": 216014314379804672,
             "content": "!play_sound ringing",
             "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "!play_sound ringing",
+            "attachments": []
         }
     ]
 }
