@@ -1023,6 +1023,76 @@
             "author_id": 548632313752190986,
             "content": "https://www.youtube.com/watch?v=INl3pCXm6Tw",
             "attachments": []
+        },
+        {
+            "author_id": 548632313752190986,
+            "content": "https://store.steampowered.com/news/app/1063420/view/509573609526659094?l=english\nspeak of the devil\n\n<@216014314379804672> no more Sanctified Repair Plates",
+            "attachments": []
+        },
+        {
+            "author_id": 548632313752190986,
+            "content": "Hull breaches were\u2026 well, too complicated. So, we decided to take a step back and simplify them. Like, a lot. In the update you NEED to fix the damaged hull. It can\u2019t be ignored for too long or else\u2026 Well, nobody can hear you scream in space.\n\nHere\u2019s the new system in simple terms (note: Numbers may change):\n\nEvery 11% damage the ship takes, you gain a Minor Breach.\nRepairing a Minor Breach restores 10% hull, meaning a net loss of 1%.\nIf you already have two Minor Breaches, one escalates into a Major Breach.\nFixing a Major Breach restores 20% hull, but costs you 22% overall.\n\nThis means we could streamline the Repair Plates: Sanctified Repair Plates are out \u2013 (we repeat: Sanctified Repair Plates are out!) \u2013, and regular Repair Plates have had their cost increased - to offset the fact that they always repair 20% Hull when used. If you allow multiple Major Breaches to form, you will start racking up the costs! So in short - repair those Minor Breaches as soon as possible - no point in letting them build to a Major ones.\n\nNote, Defect generation aboard the ship is DIRECTLY tied to Hull Health - the less Hull Integrity your ship has, the more defects will appear and escalate. So, better keep your ship Hull repaired and in good shape\u2026 unless you\u2019re collecting Defects, you madman!",
+            "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "So it still seem you can't repair the ship to full ever still",
+            "attachments": []
+        },
+        {
+            "author_id": 548632313752190986,
+            "content": "Yeah but net 1% permant damage for minor is great",
+            "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "Or can you when you repair the major. It's really unclear",
+            "attachments": []
+        },
+        {
+            "author_id": 548632313752190986,
+            "content": "Instructions arent clear",
+            "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "To get 2 minors you have to take 22% damage. A major only shows up after 2 mi or exist",
+            "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "So does that mean you have to take 33% to trigger that 3rd minor",
+            "attachments": []
+        },
+        {
+            "author_id": 548632313752190986,
+            "content": "But i knew they were working on the repair system",
+            "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "That would then make a major",
+            "attachments": []
+        },
+        {
+            "author_id": 548632313752190986,
+            "content": "gonna be an interesting update thats for sure.",
+            "attachments": []
+        },
+        {
+            "author_id": 216014314379804672,
+            "content": "Sounds like it",
+            "attachments": []
+        },
+        {
+            "author_id": 316001909271953409,
+            "content": "https://www.youtube.com/watch?v=agY8OeKcur0",
+            "attachments": []
+        },
+        {
+            "author_id": 316001909271953409,
+            "content": "it is finally here",
+            "attachments": []
         }
     ],
     "1191164095299334144": [
@@ -2519,6 +2589,27 @@
             "author_id": 548632313752190986,
             "content": "019569fd-41be-941b-a8ab-90652175ffad",
             "attachments": []
+        },
+        {
+            "author_id": 157068932518248448,
+            "content": "",
+            "attachments": [
+                "logs/images/1191164095299334144_510SLoWSdL._AC_SL1300_.jpg"
+            ]
+        },
+        {
+            "author_id": 157068932518248448,
+            "content": "",
+            "attachments": [
+                "logs/images/1191164095299334144_Funko-Pop-Dr-Ian-Malcolm-Shirtless-Wounded-Jurassic-Park-25th-Anniversary-552-Figure_6118b31a-042e-4338-aa3e-3b8bc83bf4d5.fa992ec85f2b171b70339ba27d666d76.webp"
+            ]
+        },
+        {
+            "author_id": 157068932518248448,
+            "content": "",
+            "attachments": [
+                "logs/images/1191164095299334144_481771004_23866959382894115_6730443872934698221_n.jpg"
+            ]
         }
     ],
     "1338554024466714634": [
